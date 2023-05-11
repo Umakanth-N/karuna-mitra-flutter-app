@@ -3,14 +3,9 @@
 A new Flutter project.
 
 ## Getting Started
+# Logo
+![playstore](https://github.com/Umakanth-N/karuna-mitra-flutter-app/assets/90272725/e396b0e2-a1a2-4b44-8a74-fcf4c08f497c)
 
 This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+ 
+ 
