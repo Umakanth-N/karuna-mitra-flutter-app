@@ -7,7 +7,6 @@ A new Flutter project.
 ![playstore](https://github.com/Umakanth-N/karuna-mitra-flutter-app/assets/90272725/e396b0e2-a1a2-4b44-8a74-fcf4c08f497c)
 # User-Application
 
-![Screenshot_20230817_152255](https://github.com/Umakanth-N/karuna-mitra-flutter-app/assets/90272725/0df810ec-403b-49ce-b649-bea809cfb971)![Screenshot_20230817_152806](https://github.com/Umakanth-N/karuna-mitra-flutter-app/assets/90272725/2629605c-9a3d-4b53-85f3-52eb825e482b)
 ![Screenshot_20230817_152758](https://github.com/Umakanth-N/karuna-mitra-flutter-app/assets/90272725/fea6076d-8342-4f01-a7fa-adc0605aa05c)
 ![Screenshot_20230817_152754](https://github.com/Umakanth-N/karuna-mitra-flutter-app/assets/90272725/6327ab95-3a70-40d4-a5fb-8592d5195276)
 ![Screenshot_20230817_152607](https://github.com/Umakanth-N/karuna-mitra-flutter-app/assets/90272725/9e49cc49-0a33-4c70-8c1c-f1b73fb31f4f)
